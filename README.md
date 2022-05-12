@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-65-blue)
 
@@ -20,16 +20,22 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      4 hrs 49 mins       ████████████████████░░░░░   83.06% 
+Markdown                 37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
+CMake                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 48 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MyJsonParser             5 hrs 41 mins       ████████████████████████░   98.1% 
+zhytou                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
+CS-Notes                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 48 mins       █████████████████████████   100.0%
 
 ```
 
@@ -44,5 +50,5 @@ Dart                     1 repo              █████░░░░░░�
 
 
 
- Last Updated on 12/05/2022 16:02:22 UTC
+ Last Updated on 12/05/2022 16:04:11 UTC
 <!--END_SECTION:waka-->
