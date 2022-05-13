@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2030%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -29,5 +29,5 @@ Windows                  5 hrs 48 mins       ███████████�
 ```
 
 
- Last Updated on 13/05/2022 05:59:34 UTC
+ Last Updated on 13/05/2022 06:00:02 UTC
 <!--END_SECTION:waka-->
