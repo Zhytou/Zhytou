@@ -1,9 +1,9 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-118%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -32,5 +32,5 @@ Windows                  22 hrs 49 mins      ███████████�
 ```
 
 
- Last Updated on 12/06/2022 07:35:33 UTC
+ Last Updated on 12/06/2022 07:37:24 UTC
 <!--END_SECTION:waka-->
