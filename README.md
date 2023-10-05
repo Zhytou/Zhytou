@@ -9,21 +9,18 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 25 mins       █████████████░░░░░░░░░░░░   51.09 % 
-Markdown                 1 hr 57 mins        ██████████░░░░░░░░░░░░░░░   41.13 % 
-CSV                      22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-asset-monitor            2 hrs 55 mins       ███████████████░░░░░░░░░░   61.28 % 
-CS-Notes                 1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/10/2023 16:00:02 UTC
+ Last Updated on 05/10/2023 16:01:13 UTC
 <!--END_SECTION:waka-->
