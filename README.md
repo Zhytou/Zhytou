@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -28,5 +28,5 @@ WSL                      8 hrs 44 mins       ███████████�
 ```
 
 
- Last Updated on 11/01/2025 12:39:10 UTC
+ Last Updated on 11/01/2025 12:40:31 UTC
 <!--END_SECTION:waka-->
