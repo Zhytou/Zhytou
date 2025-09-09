@@ -3,6 +3,25 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 09/09/2025 16:02:44 UTC
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Python                   1 hr 39 mins        █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+star_identification      1 hr 36 mins        ████████████████████████░   97.37 % 
+pyenv                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+
+💻 Operating System: 
+WSL                      1 hr 39 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 09/09/2025 16:04:15 UTC
 <!--END_SECTION:waka-->
