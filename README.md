@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C132%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C132%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,5 +23,5 @@ WSL                      5 hrs 45 mins       ███████████�
 ```
 
 
- Last Updated on 28/09/2025 16:38:05 UTC
+ Last Updated on 28/09/2025 16:39:35 UTC
 <!--END_SECTION:waka-->
