@@ -3,24 +3,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   5 hrs 6 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 6 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-star_identification      5 hrs 6 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-WSL                      5 hrs 6 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 04/12/2025 16:01:16 UTC
+ Last Updated on 04/12/2025 16:02:56 UTC
 <!--END_SECTION:waka-->
