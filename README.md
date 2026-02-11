@@ -1,31 +1,8 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C389%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   18 hrs 32 mins      █████████████████████████   98.61 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-🔥 Editors: 
-VS Code                  18 hrs 48 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-star_identification      18 hrs 33 mins      █████████████████████████   98.66 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-pyenv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-WSL                      18 hrs 33 mins      █████████████████████████   98.68 % 
-Windows                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-```
-
-
- Last Updated on 11/02/2026 16:01:33 UTC
+ Last Updated on 11/02/2026 16:03:16 UTC
 <!--END_SECTION:waka-->
