@@ -9,18 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 23 mins       █████████████████████████   100.00 % 
+Python                   1 hr 30 mins        █████████████████████████   99.69 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-star_identification      2 hrs 23 mins       █████████████████████████   100.00 % 
+star_identification      1 hr 30 mins        █████████████████████████   99.69 % 
+CS-Notes                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-WSL                      2 hrs 23 mins       █████████████████████████   100.00 % 
+WSL                      1 hr 30 mins        █████████████████████████   99.69 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 
- Last Updated on 26/02/2026 17:08:15 UTC
+ Last Updated on 26/02/2026 17:10:03 UTC
 <!--END_SECTION:waka-->
