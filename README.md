@@ -9,22 +9,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   23 mins             ████████████████████████░   94.74 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Markdown                 1 min               ███████████████████████░░   93.73 % 
+C++                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-star_identification      23 mins             ████████████████████████░   95.07 % 
-CS-Notes                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+CS-Notes                 1 min               ███████████████████████░░   93.73 % 
+star_identification      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 
 💻 Operating System: 
-WSL                      23 mins             ████████████████████████░   95.07 % 
-Windows                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+Windows                  1 min               ███████████████████████░░   93.73 % 
+WSL                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 
- Last Updated on 02/03/2026 16:01:27 UTC
+ Last Updated on 02/03/2026 16:05:27 UTC
 <!--END_SECTION:waka-->
