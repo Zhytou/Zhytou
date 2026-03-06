@@ -9,21 +9,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 0 secs              ███████████████████████░░   92.03 % 
-C++                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Markdown                 2 hrs 32 mins       ████████████████████████░   97.53 % 
+F#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Typst                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+VS Code                  2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 0 secs              ███████████████████████░░   92.03 % 
-star_identification      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+Zhytou.github.io         2 hrs 32 mins       ████████████████████████░   97.53 % 
+tinyrenderer             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+cv-zh                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  0 secs              ███████████████████████░░   92.03 % 
-WSL                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+WSL                      2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/03/2026 16:00:48 UTC
+ Last Updated on 06/03/2026 16:02:37 UTC
 <!--END_SECTION:waka-->
