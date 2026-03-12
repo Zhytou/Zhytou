@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C404%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,28 +9,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-Markdown                 3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   27.38 % 
-C++                      1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-CMake                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-C                        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+C++                      7 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.75 % 
+Python                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Markdown                 3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+CMake                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+INI                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 8 mins        █████████████████████░░░░   82.64 % 
-Visual Studio            1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+VS Code                  9 hrs 22 mins       ██████████████░░░░░░░░░░░   55.66 % 
+Visual Studio            7 hrs 27 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
 
 🐱‍💻 Projects: 
-star_identification      5 hrs 23 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-Zhytou.github.io         2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Tetris3D                 1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-MiniEngine               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-mengze                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Tetris3D                 6 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
+star_identification      5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Zhytou.github.io         2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+MiniEngine               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+tetris                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 💻 Operating System: 
-WSL                      9 hrs 8 mins        █████████████████████░░░░   82.64 % 
-Windows                  1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+WSL                      9 hrs 21 mins       ██████████████░░░░░░░░░░░   55.60 % 
+Windows                  7 hrs 28 mins       ███████████░░░░░░░░░░░░░░   44.40 % 
 ```
 
 
- Last Updated on 12/03/2026 16:02:00 UTC
+ Last Updated on 12/03/2026 16:03:53 UTC
 <!--END_SECTION:waka-->
