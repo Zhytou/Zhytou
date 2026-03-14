@@ -9,28 +9,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 16 mins       █████████████░░░░░░░░░░░░   53.54 % 
-Python                   5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-CMake                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-INI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+C++                      8 hrs 16 mins       █████████████░░░░░░░░░░░░   50.61 % 
+Python                   5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+CMake                    23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+INI                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Visual Studio            8 hrs 27 mins       ██████████████░░░░░░░░░░░   54.65 % 
-VS Code                  7 hrs               ███████████░░░░░░░░░░░░░░   45.35 % 
+Visual Studio            8 hrs 27 mins       █████████████░░░░░░░░░░░░   51.66 % 
+VS Code                  7 hrs 54 mins       ████████████░░░░░░░░░░░░░   48.34 % 
 
 🐱‍💻 Projects: 
-Tetris3D                 6 hrs 48 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
-star_identification      5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.19 % 
-tetris                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-MiniEngine               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-HybridRenderingEngine    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Tetris3D                 6 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.66 % 
+star_identification      5 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   35.15 % 
+tetris                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+MiniEngine               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Zhytou.github.io         41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 
 💻 Operating System: 
-Windows                  8 hrs 32 mins       ██████████████░░░░░░░░░░░   55.21 % 
-WSL                      6 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.79 % 
+Windows                  8 hrs 44 mins       █████████████░░░░░░░░░░░░   53.46 % 
+WSL                      7 hrs 36 mins       ████████████░░░░░░░░░░░░░   46.54 % 
 ```
 
 
- Last Updated on 14/03/2026 16:01:59 UTC
+ Last Updated on 14/03/2026 16:03:45 UTC
 <!--END_SECTION:waka-->
