@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C424%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C419%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -9,28 +9,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 25 mins       ████████████░░░░░░░░░░░░░   46.06 % 
-Markdown                 7 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.35 % 
-Python                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 10 hrs 49 mins      █████████████░░░░░░░░░░░░   52.96 % 
+C++                      6 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Python                   2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+C#                       6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+INI                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 34 mins       █████████████░░░░░░░░░░░░   52.39 % 
-Visual Studio            8 hrs 42 mins       ████████████░░░░░░░░░░░░░   47.61 % 
+VS Code                  13 hrs 55 mins      █████████████████░░░░░░░░   68.03 % 
+Visual Studio            6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
 
 🐱‍💻 Projects: 
-Zhytou.github.io         7 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.30 % 
-Tetris3D                 7 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.62 % 
-tetris                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-star_identification      1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-CS-Notes                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Zhytou.github.io         7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
+Tetris3D                 4 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+CS-Notes                 3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+star_identification      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+tetris                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
 
 💻 Operating System: 
-Windows                  9 hrs 13 mins       █████████████░░░░░░░░░░░░   50.48 % 
-WSL                      9 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.52 % 
+WSL                      10 hrs 31 mins      █████████████░░░░░░░░░░░░   51.49 % 
+Windows                  9 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.51 % 
 ```
 
 
- Last Updated on 18/03/2026 16:02:01 UTC
+ Last Updated on 18/03/2026 16:03:27 UTC
 <!--END_SECTION:waka-->
