@@ -9,26 +9,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 32 mins       ██████████████████░░░░░░░   70.46 % 
-Python                   3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 5 hrs 22 mins       ███████████████░░░░░░░░░░   60.13 % 
+Python                   3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  8 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
-Zhytou.github.io         4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   30.23 % 
-star_identification      3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-SimpleRenderEngine       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+CS-Notes                 5 hrs 19 mins       ███████████████░░░░░░░░░░   59.56 % 
+star_identification      3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
+Zhytou.github.io         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+SimpleRenderEngine       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-WSL                      8 hrs 5 mins        ███████████████░░░░░░░░░░   59.77 % 
-Windows                  5 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
+Windows                  5 hrs 19 mins       ███████████████░░░░░░░░░░   59.56 % 
+WSL                      3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
 ```
 
 
- Last Updated on 24/03/2026 16:01:27 UTC
+ Last Updated on 24/03/2026 16:03:19 UTC
 <!--END_SECTION:waka-->
