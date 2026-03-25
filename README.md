@@ -9,26 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       ███████████████░░░░░░░░░░   60.13 % 
-Python                   3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   38.43 % 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Markdown                 2 hrs 27 mins       ███████████████░░░░░░░░░░   60.43 % 
+Python                   1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.52 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 56 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 5 hrs 19 mins       ███████████████░░░░░░░░░░   59.56 % 
-star_identification      3 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
-Zhytou.github.io         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-SimpleRenderEngine       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CS-Notes                 2 hrs 27 mins       ███████████████░░░░░░░░░░   60.43 % 
+star_identification      1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.57 % 
 
 💻 Operating System: 
-Windows                  5 hrs 19 mins       ███████████████░░░░░░░░░░   59.56 % 
-WSL                      3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
+Windows                  2 hrs 27 mins       ███████████████░░░░░░░░░░   60.43 % 
+WSL                      1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.57 % 
 ```
 
 
- Last Updated on 25/03/2026 16:01:11 UTC
+ Last Updated on 25/03/2026 16:03:01 UTC
 <!--END_SECTION:waka-->
