@@ -9,22 +9,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 27 mins       ███████████████░░░░░░░░░░   60.43 % 
-Python                   1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.52 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 24 mins             █████████████████████████   99.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 4 mins        █████████████████████████   100.00 % 
+VS Code                  24 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 2 hrs 27 mins       ███████████████░░░░░░░░░░   60.43 % 
-star_identification      1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.57 % 
+CS-Notes                 24 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 27 mins       ███████████████░░░░░░░░░░   60.43 % 
-WSL                      1 hr 36 mins        ██████████░░░░░░░░░░░░░░░   39.57 % 
+Windows                  24 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2026 16:00:29 UTC
+ Last Updated on 26/03/2026 16:02:26 UTC
 <!--END_SECTION:waka-->
