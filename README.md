@@ -9,20 +9,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 24 mins             █████████████████████████   99.79 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 1 hr 2 mins         ███████████████████████░░   93.81 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 24 mins             █████████████████████████   100.00 % 
+CS-Notes                 1 hr 1 min          ███████████████████████░░   92.95 % 
+star_identification      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Zhytou.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+SimpleRenderEngine       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+tinyrenderer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          ███████████████████████░░   92.95 % 
+WSL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
 
 
- Last Updated on 27/03/2026 17:02:55 UTC
+ Last Updated on 27/03/2026 17:04:23 UTC
 <!--END_SECTION:waka-->
