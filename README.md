@@ -9,27 +9,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 56 mins       ████████████████████████░   97.74 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Markdown                 3 hrs 58 mins       █████████████████████████   98.31 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  4 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 2 hrs 56 mins       ████████████████████████░   97.42 % 
-star_identification      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Zhytou.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-SimpleRenderEngine       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-tinyrenderer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+CS-Notes                 3 hrs 57 mins       █████████████████████████   98.07 % 
+star_identification      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Zhytou.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+SimpleRenderEngine       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+tinyrenderer             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 56 mins       ████████████████████████░   97.42 % 
-WSL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Windows                  3 hrs 57 mins       █████████████████████████   98.07 % 
+WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 
- Last Updated on 30/03/2026 16:00:34 UTC
+ Last Updated on 30/03/2026 16:02:23 UTC
 <!--END_SECTION:waka-->
