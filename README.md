@@ -9,28 +9,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 4 hrs 29 mins       ███████████████████████░░   91.27 % 
-C++                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-F#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 4 hrs 5 mins        ███████████████████████░░   90.51 % 
+C++                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+F#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       ███████████████████████░░   93.71 % 
-Trae                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+VS Code                  4 hrs 13 mins       ███████████████████████░░   93.15 % 
+Trae                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 4 hrs 29 mins       ███████████████████████░░   91.08 % 
-tinyrenderer             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-star_identification      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Zhytou.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-SimpleRenderEngine       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+CS-Notes                 4 hrs 5 mins        ███████████████████████░░   90.29 % 
+tinyrenderer             21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+star_identification      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Zhytou.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+SimpleRenderEngine       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  4 hrs 29 mins       ███████████████████████░░   91.08 % 
-WSL                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Windows                  4 hrs 5 mins        ███████████████████████░░   90.29 % 
+WSL                      26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 ```
 
 
- Last Updated on 02/04/2026 16:00:29 UTC
+ Last Updated on 02/04/2026 16:02:15 UTC
 <!--END_SECTION:waka-->
