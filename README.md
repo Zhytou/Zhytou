@@ -9,18 +9,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 26 mins       █████████████████████████   100.00 % 
+C++                      3 hrs 20 mins       ███████████████████████░░   93.21 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+CMake                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+F#                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 8 mins        ██████████████████████░░░   87.31 % 
+Unknown Editor           27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             2 hrs 26 mins       █████████████████████████   100.00 % 
+tinyrenderer             3 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      2 hrs 26 mins       █████████████████████████   100.00 % 
+WSL                      3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 16:00:11 UTC
+ Last Updated on 22/04/2026 16:02:23 UTC
 <!--END_SECTION:waka-->
