@@ -9,23 +9,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 35 mins       █████████████████████░░░░   85.87 % 
-GLSL                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-F#                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-CMake                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+C++                      6 hrs 51 mins       █████████████████░░░░░░░░   68.91 % 
+Python                   1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+GLSL                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+F#                       18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       ████████████████████████░   94.06 % 
-Unknown Editor           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+VS Code                  9 hrs 30 mins       ████████████████████████░   95.43 % 
+Unknown Editor           27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             7 hrs 40 mins       █████████████████████████   100.00 % 
+tinyrenderer             7 hrs 56 mins       ████████████████████░░░░░   79.80 % 
+star-identification      2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
 
 💻 Operating System: 
-WSL                      7 hrs 40 mins       █████████████████████████   100.00 % 
+WSL                      9 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 17:08:57 UTC
+ Last Updated on 24/04/2026 17:10:42 UTC
 <!--END_SECTION:waka-->
