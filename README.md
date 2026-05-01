@@ -9,23 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   2 hrs 52 mins       ███████████████░░░░░░░░░░   58.33 % 
-Markdown                 1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   32.43 % 
-C++                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Markdown                 1 hr 35 mins        ████████████████░░░░░░░░░   62.19 % 
+Python                   55 mins             █████████░░░░░░░░░░░░░░░░   36.19 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-star-identification      4 hrs 34 mins       ███████████████████████░░   92.96 % 
-tinyrenderer             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+star-identification      2 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 hrs 55 mins       █████████████████████████   100.00 % 
+WSL                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/05/2026 16:00:05 UTC
+ Last Updated on 01/05/2026 16:02:05 UTC
 <!--END_SECTION:waka-->
