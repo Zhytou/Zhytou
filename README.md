@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C469%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C468%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -9,22 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 38 mins       ████████████████░░░░░░░░░   65.86 % 
-Python                   1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Markdown                 3 hrs 15 mins       ██████████████████░░░░░░░   70.38 % 
+Python                   1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████████████████   100.00 % 
+VS Code                  4 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-star-identification      4 hrs               █████████████████████████   100.00 % 
+star-identification      4 hrs 37 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      4 hrs               █████████████████████████   100.00 % 
+WSL                      4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 16:00:56 UTC
+ Last Updated on 05/05/2026 16:02:48 UTC
 <!--END_SECTION:waka-->
