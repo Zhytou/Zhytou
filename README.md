@@ -9,18 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      48 mins             ███████████████░░░░░░░░░░   61.08 % 
+GLSL                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+CMake                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Makefile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tinyrenderer             1 hr 19 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/05/2026 16:01:16 UTC
+ Last Updated on 26/05/2026 16:02:53 UTC
 <!--END_SECTION:waka-->
