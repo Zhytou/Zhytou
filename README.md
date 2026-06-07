@@ -1,4 +1,6 @@
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C545%20hrs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -7,22 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      29 hrs 23 mins      █████████████████████░░░░   82.61 % 
-GLSL                     3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-CMake                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+C++                      29 hrs 45 mins      █████████████████████░░░░   83.25 % 
+GLSL                     3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+CMake                    37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-F#                       22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  35 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             35 hrs 34 mins      █████████████████████████   100.00 % 
+tinyrenderer             35 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      35 hrs 34 mins      █████████████████████████   100.00 % 
+WSL                      35 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2026 17:26:47 UTC
+ Last Updated on 07/06/2026 17:28:28 UTC
 <!--END_SECTION:waka-->
