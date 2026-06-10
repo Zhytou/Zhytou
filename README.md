@@ -9,22 +9,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      28 hrs 58 mins      █████████████████████░░░░   84.80 % 
-GLSL                     3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-CMake                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Python                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C++                      28 hrs 26 mins      █████████████████████░░░░   82.25 % 
+GLSL                     4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Markdown                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+CMake                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 10 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             34 hrs 10 mins      █████████████████████████   100.00 % 
+tinyrenderer             34 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      34 hrs 10 mins      █████████████████████████   100.00 % 
+WSL                      34 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/06/2026 18:40:57 UTC
+ Last Updated on 10/06/2026 18:43:01 UTC
 <!--END_SECTION:waka-->
