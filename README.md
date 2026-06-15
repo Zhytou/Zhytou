@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C584%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C580%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -9,22 +9,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      28 hrs 20 mins      ████████████████████░░░░░   80.25 % 
-GLSL                     5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-JSON                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-Wavefront Material       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+C++                      22 hrs 50 mins      █████████████████░░░░░░░░   69.54 % 
+GLSL                     4 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Markdown                 3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+CMake                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 19 mins      █████████████████████████   100.00 % 
+VS Code                  32 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             35 hrs 19 mins      █████████████████████████   100.00 % 
+tinyrenderer             28 hrs 59 mins      ██████████████████████░░░   88.29 % 
+Zhytou.github.io         3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+HybridRenderingEngine    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-WSL                      35 hrs 19 mins      █████████████████████████   100.00 % 
+WSL                      32 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2026 16:01:11 UTC
+ Last Updated on 15/06/2026 16:03:09 UTC
 <!--END_SECTION:waka-->
