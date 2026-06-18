@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C605%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C596%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -9,25 +9,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      22 hrs 24 mins      █████████████████░░░░░░░░   66.11 % 
-GLSL                     4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Markdown                 3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+C++                      23 hrs 21 mins      ████████████████░░░░░░░░░   64.25 % 
+GLSL                     5 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Markdown                 3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 37 mins      █████████████████████████   99.23 % 
-Trae                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+VS Code                  36 hrs 6 mins       █████████████████████████   99.28 % 
+Trae                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             30 hrs 2 mins       ██████████████████████░░░   88.65 % 
-Zhytou.github.io         3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-HybridRenderingEngine    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+tinyrenderer             32 hrs 31 mins      ██████████████████████░░░   89.42 % 
+Zhytou.github.io         3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+HybridRenderingEngine    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-WSL                      33 hrs 53 mins      █████████████████████████   100.00 % 
+WSL                      36 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2026 16:01:06 UTC
+ Last Updated on 18/06/2026 16:03:23 UTC
 <!--END_SECTION:waka-->
