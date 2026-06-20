@@ -9,25 +9,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      23 hrs 51 mins      ████████████████░░░░░░░░░   62.43 % 
-GLSL                     7 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Markdown                 3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+C++                      28 hrs 39 mins      ████████████████░░░░░░░░░   64.16 % 
+GLSL                     8 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Markdown                 4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 56 mins      █████████████████████████   99.32 % 
-Trae                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+VS Code                  44 hrs 23 mins      █████████████████████████   99.41 % 
+Trae                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             34 hrs 21 mins      ██████████████████████░░░   89.93 % 
-Zhytou.github.io         3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-HybridRenderingEngine    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+tinyrenderer             40 hrs 48 mins      ███████████████████████░░   91.39 % 
+Zhytou.github.io         3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+HybridRenderingEngine    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-WSL                      38 hrs 12 mins      █████████████████████████   100.00 % 
+WSL                      44 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/06/2026 16:00:37 UTC
+ Last Updated on 20/06/2026 16:02:26 UTC
 <!--END_SECTION:waka-->
