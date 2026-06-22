@@ -9,25 +9,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      27 hrs 19 mins      ████████████████░░░░░░░░░   62.22 % 
-GLSL                     8 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Markdown                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+C++                      32 hrs 13 mins      █████████████████░░░░░░░░   68.33 % 
+GLSL                     11 hrs 11 mins      ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Python                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+CMake                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 38 mins      █████████████████████████   99.40 % 
-Trae                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+VS Code                  46 hrs 53 mins      █████████████████████████   99.45 % 
+Trae                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             40 hrs 3 mins       ███████████████████████░░   91.24 % 
-Zhytou.github.io         3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-HybridRenderingEngine    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+tinyrenderer             47 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      43 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      47 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2026 16:01:32 UTC
+ Last Updated on 22/06/2026 16:03:19 UTC
 <!--END_SECTION:waka-->
