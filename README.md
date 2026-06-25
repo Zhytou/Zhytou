@@ -9,23 +9,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      30 hrs 19 mins      █████████████████░░░░░░░░   66.54 % 
-GLSL                     13 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   29.02 % 
-Markdown                 39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Wavefront Object         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C++                      24 hrs 14 mins      █████████████████░░░░░░░░   66.69 % 
+GLSL                     10 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Markdown                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Wavefront Object         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyrenderer             42 hrs 47 mins      ███████████████████████░░   93.93 % 
-tinyglrenderer           2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
+tinyrenderer             33 hrs 35 mins      ███████████████████████░░   92.40 % 
+tinyglrenderer           2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 💻 Operating System: 
-WSL                      45 hrs 33 mins      █████████████████████████   100.00 % 
+WSL                      36 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/06/2026 16:00:50 UTC
+ Last Updated on 25/06/2026 16:02:45 UTC
 <!--END_SECTION:waka-->
