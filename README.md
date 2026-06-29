@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C670%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C660%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,23 +9,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      29 hrs 59 mins      █████████████████████░░░░   82.50 % 
-GLSL                     5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+C++                      35 hrs 9 mins       ██████████████████████░░░   87.98 % 
+GLSL                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 21 mins      █████████████████████████   100.00 % 
+VS Code                  39 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyglrenderer           21 hrs 30 mins      ███████████████░░░░░░░░░░   59.17 % 
-tinyrenderer             14 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.83 % 
+tinyglrenderer           32 hrs 55 mins      █████████████████████░░░░   82.39 % 
+tinyrenderer             7 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
 
 💻 Operating System: 
-WSL                      36 hrs 21 mins      █████████████████████████   100.00 % 
+WSL                      39 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 14:38:09 UTC
+ Last Updated on 29/06/2026 18:17:34 UTC
 <!--END_SECTION:waka-->
