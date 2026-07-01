@@ -9,23 +9,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      36 hrs 35 mins      ██████████████████████░░░   89.24 % 
-Markdown                 1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-GLSL                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+C++                      37 hrs 50 mins      █████████████████████░░░░   84.88 % 
+Markdown                 2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+GLSL                     2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  41 hrs              █████████████████████████   100.00 % 
+VS Code                  44 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyglrenderer           40 hrs 3 mins       ████████████████████████░   97.68 % 
-Zhytou.github.io         57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+tinyglrenderer           42 hrs 38 mins      ████████████████████████░   95.67 % 
+Zhytou.github.io         1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 💻 Operating System: 
-WSL                      41 hrs              █████████████████████████   100.00 % 
+WSL                      44 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/07/2026 16:00:13 UTC
+ Last Updated on 01/07/2026 16:02:06 UTC
 <!--END_SECTION:waka-->
