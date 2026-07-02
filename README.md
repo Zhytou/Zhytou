@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C694%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C686%20hrs%2042%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,24 +9,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      37 hrs 52 mins      █████████████████████░░░░   84.86 % 
-Markdown                 2 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-GLSL                     2 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+C++                      39 hrs 51 mins      ███████████████████░░░░░░   75.43 % 
+GLSL                     8 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  44 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  52 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyglrenderer           42 hrs 42 mins      ████████████████████████░   95.67 % 
-Zhytou.github.io         1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+tinyglrenderer           50 hrs 53 mins      ████████████████████████░   96.30 % 
+Zhytou.github.io         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+SimplePathTracer         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-WSL                      44 hrs 37 mins      █████████████████████████   100.00 % 
+WSL                      52 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/07/2026 16:00:48 UTC
+ Last Updated on 02/07/2026 16:02:49 UTC
 <!--END_SECTION:waka-->
