@@ -9,25 +9,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      39 hrs 51 mins      ███████████████████░░░░░░   75.43 % 
-GLSL                     8 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-JSON                     1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+C++                      43 hrs 7 mins       ██████████████████░░░░░░░   72.64 % 
+GLSL                     10 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JSON                     1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-VS Code                  52 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  59 hrs 22 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyglrenderer           50 hrs 53 mins      ████████████████████████░   96.30 % 
-Zhytou.github.io         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-SimplePathTracer         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+tinyglrenderer           54 hrs 43 mins      ███████████████████████░░   92.15 % 
+SimplePathTracer         2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Zhytou.github.io         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+stb                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-WSL                      52 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      59 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 16:01:25 UTC
+ Last Updated on 03/07/2026 16:03:15 UTC
 <!--END_SECTION:waka-->
