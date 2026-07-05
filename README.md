@@ -9,26 +9,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      43 hrs 22 mins      ██████████████████░░░░░░░   72.78 % 
-GLSL                     10 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-JSON                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+C++                      34 hrs 18 mins      █████████████████░░░░░░░░   68.05 % 
+GLSL                     10 hrs 56 mins      █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
+Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-VS Code                  59 hrs 35 mins      █████████████████████████   100.00 % 
+VS Code                  50 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyglrenderer           47 hrs 26 mins      ████████████████████░░░░░   79.61 % 
-SimplePathTracer         10 hrs 7 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Zhytou.github.io         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-stb                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+tinyglrenderer           35 hrs 59 mins      ██████████████████░░░░░░░   71.39 % 
+SimplePathTracer         12 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Zhytou.github.io         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+stb                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-WSL                      59 hrs 35 mins      █████████████████████████   100.00 % 
+WSL                      50 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/07/2026 16:00:24 UTC
+ Last Updated on 05/07/2026 16:01:54 UTC
 <!--END_SECTION:waka-->
