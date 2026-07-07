@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C719%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C714%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -9,26 +9,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      26 hrs 37 mins      ████████████████░░░░░░░░░   63.54 % 
-GLSL                     10 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-Markdown                 2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-Wavefront Material       16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+C++                      24 hrs 31 mins      █████████████████░░░░░░░░   66.49 % 
+GLSL                     10 hrs 15 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+CMake                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-VS Code                  41 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-tinyglrenderer           24 hrs 34 mins      ███████████████░░░░░░░░░░   58.65 % 
-SimplePathTracer         15 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   36.50 % 
-Zhytou.github.io         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-stb                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+SimplePathTracer         20 hrs 52 mins      ██████████████░░░░░░░░░░░   56.58 % 
+tinyglrenderer           14 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.49 % 
+Zhytou.github.io         52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+OpenGLRenderer           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+stb                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-WSL                      41 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      36 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 16:02:06 UTC
+ Last Updated on 07/07/2026 16:03:54 UTC
 <!--END_SECTION:waka-->
