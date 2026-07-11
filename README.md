@@ -9,26 +9,25 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      32 hrs 16 mins      ███████████████████████░░   92.81 % 
-JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Wavefront Object         49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-CMake                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C++                      33 hrs 40 mins      ███████████████████████░░   93.04 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Wavefront Object         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+CMake                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  36 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         34 hrs 38 mins      █████████████████████████   99.60 % 
-stb                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-TinyGLRenderer           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-tinyobjloader            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-rapidjson                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+SimplePathTracer         36 hrs 10 mins      █████████████████████████   99.95 % 
+rapidjson                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+tinyobjloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+stb                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-WSL                      34 hrs 46 mins      █████████████████████████   100.00 % 
+WSL                      36 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2026 16:00:43 UTC
+ Last Updated on 11/07/2026 16:02:34 UTC
 <!--END_SECTION:waka-->
