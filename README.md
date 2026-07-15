@@ -9,27 +9,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      25 hrs 20 mins      ██████████████████████░░░   88.56 % 
-JSON                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Wavefront Object         44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Wavefront Material       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+C++                      21 hrs 23 mins      ███████████████████████░░   91.64 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+C                        15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Wavefront Material       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+CMake                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-VS Code                  28 hrs 36 mins      █████████████████████████   99.95 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+VS Code                  23 hrs 20 mins      █████████████████████████   99.94 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         28 hrs 17 mins      █████████████████████████   98.88 % 
-tetris                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-zhytou                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-GameLib                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+SimplePathTracer         23 hrs 1 min        █████████████████████████   98.63 % 
+tetris                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+zhytou                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+GameLib                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 tinyobjloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-WSL                      28 hrs 36 mins      █████████████████████████   100.00 % 
+WSL                      23 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/07/2026 16:43:24 UTC
+ Last Updated on 15/07/2026 16:45:09 UTC
 <!--END_SECTION:waka-->
