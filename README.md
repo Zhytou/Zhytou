@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C763%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C758%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -9,26 +9,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 51 mins       █████████████████████░░░░   85.01 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-C                        12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+C++                      13 hrs 35 mins      ██████████████████████░░░   89.25 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 24 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         8 hrs 13 mins       ████████████████████░░░░░   78.95 % 
-GameLib                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-tetris                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Zhytou.github.io         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
-TinyGLRenderer           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+SimplePathTracer         13 hrs 14 mins      ██████████████████████░░░   86.94 % 
+GameLib                  52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+tetris                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Zhytou.github.io         19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TinyGLRenderer           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-WSL                      10 hrs 24 mins      █████████████████████████   100.00 % 
+WSL                      15 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 16:00:05 UTC
+ Last Updated on 20/07/2026 16:01:50 UTC
 <!--END_SECTION:waka-->
