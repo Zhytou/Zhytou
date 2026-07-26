@@ -9,26 +9,26 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      18 hrs 59 mins      ██████████████████████░░░   88.99 % 
-JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-CMake                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+C++                      18 hrs 55 mins      ██████████████████████░░░   88.41 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+CMake                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Wavefront Material       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  21 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         20 hrs 35 mins      ████████████████████████░   96.46 % 
-nori                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+SimplePathTracer         20 hrs 37 mins      ████████████████████████░   96.34 % 
+nori                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 nori-ray-tracer          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 tbb                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Zhytou.github.io         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Zhytou.github.io         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-WSL                      21 hrs 20 mins      █████████████████████████   100.00 % 
+WSL                      21 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 16:00:15 UTC
+ Last Updated on 26/07/2026 16:02:10 UTC
 <!--END_SECTION:waka-->
