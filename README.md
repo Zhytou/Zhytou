@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C374%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C383%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2049%20mins-blue?style=flat)
 
@@ -11,24 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      18 hrs 58 mins      ██████████████████████░░░   87.80 % 
-Markdown                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-JSON                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-CMake                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-C                        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+C++                      25 hrs 57 mins      ████████████████████████░   94.70 % 
+CMake                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+C                        14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  27 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         20 hrs 19 mins      ████████████████████████░   94.03 % 
-specular-manifold-samplin26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-nori                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-nori-ray-tracer          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-tbb                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+SimplePathTracer         26 hrs 7 mins       ████████████████████████░   95.30 % 
+specular-manifold-samplin26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+nori                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+nori-ray-tracer          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+tbb                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-WSL                      21 hrs 37 mins      █████████████████████████   100.00 % 
+WSL                      27 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2026 16:00:09 UTC
+ Last Updated on 30/07/2026 16:01:58 UTC
 <!--END_SECTION:waka-->
