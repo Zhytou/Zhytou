@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C387%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C392%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2049%20mins-blue?style=flat)
 
@@ -11,24 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      29 hrs 40 mins      ████████████████████████░   96.65 % 
-Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Wavefront Material       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+C++                      31 hrs 59 mins      ████████████████████████░   94.97 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Wavefront Object         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Wavefront Material       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 41 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         30 hrs 7 mins       █████████████████████████   98.15 % 
-specular-manifold-samplin27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-TinyGLRenderer           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Zhytou.github.io         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-nori                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+SimplePathTracer         32 hrs 51 mins      ████████████████████████░   97.54 % 
+specular-manifold-samplin43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+TinyGLRenderer           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Zhytou.github.io         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+tinyobjloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-WSL                      30 hrs 41 mins      █████████████████████████   100.00 % 
+WSL                      33 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/08/2026 16:00:31 UTC
+ Last Updated on 01/08/2026 16:02:07 UTC
 <!--END_SECTION:waka-->
