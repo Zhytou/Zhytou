@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C409%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C416%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2049%20mins-blue?style=flat)
 
@@ -11,24 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      40 hrs 33 mins      ██████████████████████░░░   89.68 % 
-JSON                     3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+C++                      39 hrs 58 mins      ██████████████████████░░░   88.16 % 
+JSON                     4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+C                        23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 XML                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 Other                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Wavefront Object         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  45 hrs 20 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         44 hrs 33 mins      █████████████████████████   98.53 % 
-specular-manifold-samplin16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-nori-ray-tracer          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-TinyGLRenderer           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-tinyobjloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+SimplePathTracer         44 hrs 13 mins      ████████████████████████░   97.54 % 
+nori-ray-tracer          46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+specular-manifold-samplin16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+TinyGLRenderer           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+tinyobjloader            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-WSL                      45 hrs 13 mins      █████████████████████████   100.00 % 
+WSL                      45 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2026 16:00:17 UTC
+ Last Updated on 04/08/2026 16:02:16 UTC
 <!--END_SECTION:waka-->
