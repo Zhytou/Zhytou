@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C487%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C492%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2017%20mins-blue?style=flat)
 
@@ -11,28 +11,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      21 hrs 49 mins      █████████████████████████   99.95 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+C++                      26 hrs 9 mins       █████████████████████████   99.96 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 50 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         21 hrs 48 mins      █████████████████████████   99.81 % 
-nori-ray-tracer          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+SimplePathTracer         26 hrs 7 mins       █████████████████████████   99.84 % 
+nori-ray-tracer          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 💻 Operating System: 
-WSL                      21 hrs 50 mins      █████████████████████████   100.00 % 
+WSL                      26 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 4 mins (9.48%)
+⏱ AI Coding Time: 2 hrs 4 mins (7.91%)
 
-✍️ 0 lines written by AI, 973 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,175 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -48,5 +48,5 @@ WSL                      21 hrs 50 mins      ███████████�
 ```
 
 
- Last Updated on 22/08/2026 16:01:09 UTC
+ Last Updated on 22/08/2026 16:02:39 UTC
 <!--END_SECTION:waka-->
