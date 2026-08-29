@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C519%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C522%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2017%20mins-blue?style=flat)
 
@@ -11,21 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      31 hrs 16 mins      █████████████████████████   98.13 % 
-JSON                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Wavefront Object         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+C++                      30 hrs 23 mins      ████████████████████████░   97.76 % 
+JSON                     35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Wavefront Object         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 4 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         31 hrs 28 mins      █████████████████████████   98.78 % 
-nori-ray-tracer          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+SimplePathTracer         30 hrs 41 mins      █████████████████████████   98.75 % 
+nori-ray-tracer          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-WSL                      31 hrs 52 mins      █████████████████████████   100.00 % 
+WSL                      31 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -35,5 +35,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 29/08/2026 16:00:11 UTC
+ Last Updated on 29/08/2026 16:02:01 UTC
 <!--END_SECTION:waka-->
