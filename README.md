@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C527%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C535%20hrs%2033%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2017%20mins-blue?style=flat)
 
@@ -11,22 +11,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      30 hrs 23 mins      ████████████████████████░   96.78 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+C++                      33 hrs 10 mins      ████████████████████████░   95.60 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 Wavefront Object         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  34 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         30 hrs 55 mins      █████████████████████████   98.49 % 
-nori-ray-tracer          23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-tinyobjloader            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+SimplePathTracer         34 hrs 12 mins      █████████████████████████   98.57 % 
+nori-ray-tracer          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+tinyobjloader            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-WSL                      31 hrs 23 mins      █████████████████████████   100.00 % 
+WSL                      34 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -36,5 +36,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/08/2026 16:01:25 UTC
+ Last Updated on 31/08/2026 16:03:17 UTC
 <!--END_SECTION:waka-->
