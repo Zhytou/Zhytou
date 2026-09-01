@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C535%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C537%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2017%20mins-blue?style=flat)
 
@@ -11,22 +11,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      33 hrs 10 mins      ████████████████████████░   95.60 % 
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Wavefront Object         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C++                      29 hrs 46 mins      ████████████████████████░   94.84 % 
+JSON                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Wavefront Object         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 42 mins      █████████████████████████   100.00 % 
+VS Code                  31 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         34 hrs 12 mins      █████████████████████████   98.57 % 
-nori-ray-tracer          25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-tinyobjloader            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+SimplePathTracer         30 hrs 34 mins      ████████████████████████░   97.41 % 
+nori-ray-tracer          44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+tinyobjloader            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-WSL                      34 hrs 42 mins      █████████████████████████   100.00 % 
+WSL                      31 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -36,5 +36,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/09/2026 16:00:59 UTC
+ Last Updated on 01/09/2026 16:02:53 UTC
 <!--END_SECTION:waka-->
