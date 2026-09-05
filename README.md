@@ -11,24 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      27 hrs 26 mins      █████████████████████░░░░   82.74 % 
-JSON                     3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Wavefront Object         38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Wavefront Material       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+C++                      23 hrs 57 mins      ████████████████████░░░░░   81.04 % 
+JSON                     3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Wavefront Object         38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Wavefront Material       11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  29 hrs 33 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         30 hrs 53 mins      ███████████████████████░░   93.15 % 
-nori-ray-tracer          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-TinyGLRenderer           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-Zhytou.github.io         31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-tinyobjloader            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+SimplePathTracer         27 hrs 17 mins      ███████████████████████░░   92.32 % 
+nori-ray-tracer          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TinyGLRenderer           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Zhytou.github.io         31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+tinyobjloader            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-WSL                      33 hrs 9 mins       █████████████████████████   100.00 % 
+WSL                      29 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 05/09/2026 16:01:22 UTC
+ Last Updated on 05/09/2026 16:03:06 UTC
 <!--END_SECTION:waka-->
