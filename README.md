@@ -11,24 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      11 hrs 52 mins      ██████████████████░░░░░░░   70.26 % 
-JSON                     2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Wavefront Object         37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Wavefront Material       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+C++                      10 hrs 10 mins      █████████████████░░░░░░░░   67.32 % 
+JSON                     2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Markdown                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Wavefront Object         37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Wavefront Material       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         14 hrs 28 mins      █████████████████████░░░░   85.66 % 
-nori-ray-tracer          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-TinyGLRenderer           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Zhytou.github.io         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+SimplePathTracer         12 hrs 59 mins      ██████████████████████░░░   86.03 % 
+TinyGLRenderer           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Zhytou.github.io         47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+nori-ray-tracer          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 pyenv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-WSL                      16 hrs 54 mins      █████████████████████████   100.00 % 
+WSL                      15 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 08/09/2026 16:01:57 UTC
+ Last Updated on 08/09/2026 16:03:50 UTC
 <!--END_SECTION:waka-->
