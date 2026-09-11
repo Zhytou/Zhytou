@@ -11,23 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 14 mins       ███████████████░░░░░░░░░░   59.75 % 
-JSON                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Wavefront Object         30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-GLSL                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+GLSL                     22 mins             ███████████░░░░░░░░░░░░░░   45.47 % 
+Markdown                 19 mins             ██████████░░░░░░░░░░░░░░░   38.95 % 
+C++                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SimplePathTracer         4 hrs 40 mins       █████████████████████░░░░   85.94 % 
-TinyGLRenderer           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Zhytou.github.io         15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-pyenv                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+TinyGLRenderer           29 mins             ███████████████░░░░░░░░░░   59.81 % 
+Zhytou.github.io         18 mins             █████████░░░░░░░░░░░░░░░░   37.79 % 
+SimplePathTracer         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 💻 Operating System: 
-WSL                      5 hrs 26 mins       █████████████████████████   100.00 % 
+WSL                      50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +35,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2026 16:00:03 UTC
+ Last Updated on 11/09/2026 16:01:51 UTC
 <!--END_SECTION:waka-->
