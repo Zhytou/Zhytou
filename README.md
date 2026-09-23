@@ -11,23 +11,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 10 mins      ███████████████████░░░░░░   75.81 % 
-GLSL                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-C++                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Wavefront Material       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Markdown                 14 hrs 23 mins      ████████████████████████░   94.64 % 
+C++                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+GLSL                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Wavefront Material       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 22 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zhytou.github.io         6 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.92 % 
-CS-Notes                 6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.83 % 
-TinyGLRenderer           4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+CS-Notes                 7 hrs 37 mins       █████████████░░░░░░░░░░░░   50.18 % 
+Zhytou.github.io         6 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.46 % 
+TinyGLRenderer           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-WSL                      10 hrs 58 mins      ████████████████░░░░░░░░░   63.17 % 
-Windows                  6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.83 % 
+Windows                  7 hrs 37 mins       █████████████░░░░░░░░░░░░   50.18 % 
+WSL                      7 hrs 34 mins       ████████████░░░░░░░░░░░░░   49.82 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 23/09/2026 15:09:56 UTC
+ Last Updated on 23/09/2026 19:38:14 UTC
 <!--END_SECTION:waka-->
