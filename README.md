@@ -11,24 +11,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
-GLSL                     3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.56 % 
-Markdown                 3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+GLSL                     3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.94 % 
+Markdown                 3 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
+C++                      2 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 47 mins      █████████████████████████   100.00 % 
+VS Code                  9 hrs 33 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-TinyGLRenderer           8 hrs 40 mins       ██████████████████░░░░░░░   73.61 % 
-Zhytou.github.io         1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-CS-Notes                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-cupy_3dgs                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+TinyGLRenderer           6 hrs 26 mins       █████████████████░░░░░░░░   67.45 % 
+Zhytou.github.io         1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+CS-Notes                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+cupy_3dgs                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 💻 Operating System: 
-WSL                      10 hrs 37 mins      ███████████████████████░░   90.16 % 
-Windows                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+WSL                      8 hrs 23 mins       ██████████████████████░░░   87.86 % 
+Windows                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 16:00:29 UTC
+ Last Updated on 03/10/2026 16:02:21 UTC
 <!--END_SECTION:waka-->
