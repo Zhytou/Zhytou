@@ -5,38 +5,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
 
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 6 hrs 34 mins       ████████████████████████░   94.94 % 
-Python                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 55 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Zhytou.github.io         5 hrs 7 mins        ██████████████████░░░░░░░   73.87 % 
-CS-Notes                 1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-cupy_3dgs                34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-TinyGLRenderer           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-
-💻 Operating System: 
-WSL                      5 hrs 41 mins       █████████████████████░░░░   82.09 % 
-Windows                  1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 06/10/2026 16:01:11 UTC
+ Last Updated on 06/10/2026 16:03:04 UTC
 <!--END_SECTION:waka-->
