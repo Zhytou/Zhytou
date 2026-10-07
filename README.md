@@ -11,24 +11,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 33 mins       ████████████████████████░   94.16 % 
-Python                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Markdown                 5 hrs 22 mins       ███████████████████████░░   92.98 % 
+Python                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 GLSL                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zhytou.github.io         5 hrs 4 mins        ██████████████████░░░░░░░   72.83 % 
-CS-Notes                 1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-cupy_3dgs                37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Zhytou.github.io         5 hrs 4 mins        ██████████████████████░░░   87.56 % 
+cupy_3dgs                37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+CS-Notes                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 TinyGLRenderer           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-WSL                      5 hrs 41 mins       ████████████████████░░░░░   81.81 % 
-Windows                  1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
+WSL                      5 hrs 41 mins       █████████████████████████   98.35 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2026 16:01:31 UTC
+ Last Updated on 07/10/2026 16:03:21 UTC
 <!--END_SECTION:waka-->
