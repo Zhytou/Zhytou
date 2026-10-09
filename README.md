@@ -11,23 +11,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 6 mins        ████████████████████████░   94.06 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-GLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 4 hrs 39 mins       ████████████████████████░   94.05 % 
+Python                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+GLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 56 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zhytou.github.io         4 hrs 47 mins       ██████████████████████░░░   88.28 % 
-cupy_3dgs                28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-CS-Notes                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-TinyGLRenderer           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Zhytou.github.io         4 hrs 33 mins       ███████████████████████░░   92.13 % 
+cupy_3dgs                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+CS-Notes                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+TinyGLRenderer           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-WSL                      5 hrs 19 mins       █████████████████████████   98.25 % 
-Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+WSL                      4 hrs 51 mins       █████████████████████████   98.07 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/10/2026 16:00:49 UTC
+ Last Updated on 09/10/2026 16:02:44 UTC
 <!--END_SECTION:waka-->
