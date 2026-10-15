@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C606%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C607%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2017%20mins-blue?style=flat)
 
@@ -11,23 +11,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 55 mins       ████████████████████████░   95.98 % 
-Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-GLSL                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Markdown                 3 hrs 53 mins       ████████████████████████░   97.56 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Zhytou.github.io         2 hrs 35 mins       ████████████████░░░░░░░░░   63.32 % 
-CS-Notes                 1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.66 % 
-cupy_3dgs                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-TinyGLRenderer           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+CS-Notes                 2 hrs 17 mins       ██████████████░░░░░░░░░░░   57.54 % 
+Zhytou.github.io         1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.01 % 
+cupy_3dgs                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
 
 💻 Operating System: 
-WSL                      2 hrs 45 mins       █████████████████░░░░░░░░   67.34 % 
-Windows                  1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Windows                  2 hrs 17 mins       ██████████████░░░░░░░░░░░   57.54 % 
+WSL                      1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.46 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +35,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2026 16:01:09 UTC
+ Last Updated on 15/10/2026 16:02:32 UTC
 <!--END_SECTION:waka-->
