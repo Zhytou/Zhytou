@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C624%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C624%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2017%20mins-blue?style=flat)
 
@@ -11,23 +11,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 6 hrs 18 mins       ███████████████████████░░   90.28 % 
-C++                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-GLSL                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Markdown                 6 hrs 11 mins       ███████████████████████░░   90.11 % 
+C++                      34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+GLSL                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-CS-Notes                 5 hrs 43 mins       ████████████████████░░░░░   81.96 % 
-Zhytou.github.io         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-TinyGLRenderer           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-SimplePathTracer         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+CS-Notes                 5 hrs 36 mins       ████████████████████░░░░░   81.65 % 
+Zhytou.github.io         34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+TinyGLRenderer           29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+SimplePathTracer         11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Windows                  5 hrs 43 mins       ████████████████████░░░░░   81.96 % 
-WSL                      1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
+Windows                  5 hrs 36 mins       ████████████████████░░░░░   81.65 % 
+WSL                      1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -37,5 +37,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/10/2026 16:01:40 UTC
+ Last Updated on 27/10/2026 16:03:16 UTC
 <!--END_SECTION:waka-->
